@@ -12,7 +12,6 @@ Estudos e testes sobre essa área
 description: Estudos sobre essa área
 ---
 
-# CyberSecurity
 
 CyberSecurity:
 
