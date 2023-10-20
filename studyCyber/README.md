@@ -33,3 +33,7 @@ description: Estudos sobre essa área!
 ### Livros:
 
 {% embed url="https://www.academia.edu/39301844/Testes_de_Invas%C3%A3o_Uma_introdu%C3%A7%C3%A3o_pr%C3%A1tica_ao_hacking" %}
+
+{% file src=".gitbook/assets/Wireless_Hacking_livro_MFAA.pdf" %}
+
+{% embed url="https://drive.google.com/drive/folders/1caEvSwlqvIYN3lyze1sOp2BuhV0xm03I" %}
