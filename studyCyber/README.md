@@ -25,3 +25,7 @@ description: Estudos sobre essa área!
 ### Hacker Ético - Cursos:
 
 {% embed url="https://www.udemy.com/courses/search/?src=ukw&subs_filter_type=subs_only&q=hacker+etico+" %}
+
+### Guia:
+
+{% embed url="https://github.com/arthurspk/guiadecybersecurity#-introdu%C3%A7%C3%A3o-a-%C3%A1rea-de-cyber-security" %}
