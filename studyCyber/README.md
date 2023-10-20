@@ -6,7 +6,7 @@ description: Estudos sobre essa área!
 
 
 
-### CyberSecurity - Pesquisas/Estudos:
+### Cyber Security - Pesquisas/Estudos:
 
 {% embed url="https://canaltech.com.br/produtos/o-que-e-dos-e-ddos/" %}
 
