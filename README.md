@@ -7,4 +7,4 @@
 
 # SUMMARY:
 
-* [CyberSecurity](https://github.com/juliaRobertav/CyberSecurity/blob/main/studyCyber/README.md)
+* [Cyber Security](https://github.com/juliaRobertav/CyberSecurity/tree/main/studyCyber)
