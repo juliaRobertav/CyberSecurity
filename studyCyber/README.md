@@ -37,3 +37,5 @@ description: Estudos sobre essa área!
 {% file src=".gitbook/assets/Wireless_Hacking_livro_MFAA.pdf" %}
 
 {% embed url="https://drive.google.com/drive/folders/1caEvSwlqvIYN3lyze1sOp2BuhV0xm03I" %}
+
+{% embed url="https://drive.google.com/drive/folders/1TG6GjbGAR8Dr61tVBwU0hl5ldd9OpToX" %}
