@@ -6,6 +6,7 @@
 ## ETHICAL HACKING
 
 * [Fundamentos](ethical-hacking/fundamentos.md)
+* [Conceitos Legais](ethical-hacking/conceitos-legais.md)
 
 ***
 
