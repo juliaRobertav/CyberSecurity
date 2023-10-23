@@ -32,9 +32,9 @@ description: Estudos sobre essa área!
 
 ### Livros:
 
-{% embed url="https://www.academia.edu/39301844/Testes_de_Invas%C3%A3o_Uma_introdu%C3%A7%C3%A3o_pr%C3%A1tica_ao_hacking" %}
+[Livro](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeGebi62aLkV5LwYyzI1e%2Fuploads%2Fx1bsQiKUM8cUEXCg5j1W%2FWireless_Hacking_livro_MFAA.pdf?alt=media&token=e84442d2-e1fd-4558-baee-8c12747c5736)
 
-{% file src=".gitbook/assets/Wireless_Hacking_livro_MFAA.pdf" %}
+{% embed url="https://www.academia.edu/39301844/Testes_de_Invas%C3%A3o_Uma_introdu%C3%A7%C3%A3o_pr%C3%A1tica_ao_hacking" %}
 
 {% embed url="https://drive.google.com/drive/folders/1caEvSwlqvIYN3lyze1sOp2BuhV0xm03I" %}
 
