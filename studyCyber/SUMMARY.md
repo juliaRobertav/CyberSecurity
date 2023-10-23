@@ -10,4 +10,5 @@
 
 ***
 
-* [Áreas](areas.md)
+* [Áreas](areas/README.md)
+  * [Redes](areas/redes.md)
