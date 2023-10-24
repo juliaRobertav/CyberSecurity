@@ -1,5 +1,7 @@
 # Dicas
 
+* Lembrando que o essencial é ter a base primeiro, como entender Redes, Firewall, etc...
+
 Se você está interessado em aprender e iniciar na área de cibersegurança, existem muitos recursos disponíveis, incluindo sites, cursos e dicas que podem ajudá-lo a adquirir as habilidades necessárias. Aqui estão algumas recomendações:
 
 **Sites e Recursos:**
