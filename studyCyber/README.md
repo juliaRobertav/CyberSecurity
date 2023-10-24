@@ -38,3 +38,10 @@ description: Estudos sobre essa área!
 
 {% embed url="https://drive.google.com/drive/folders/1TG6GjbGAR8Dr61tVBwU0hl5ldd9OpToX" %}
 
+{% embed url="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html" %}
+CCNA
+{% endembed %}
+
+{% embed url="https://ciberseguranca.hackone.com.br/comunidade" %}
+Hackone - Lucas Palmo
+{% endembed %}
