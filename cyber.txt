@@ -11,11 +11,3 @@ Quais projetos de segurança cibernética ou experiências práticas você recom
 Qual é o equilíbrio entre a ética e a legalidade na cibersegurança, e como você lida com questões éticas em seu trabalho?
 
 Quais são os melhores recursos (livros, blogs, cursos, etc.) que você recomendaria para alguém que está começando na cibersegurança?
-
-https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html
-
-https://ciberseguranca.hackone.com.br/comunidade
-
---base
-
-Lucas Palmo - youtube
