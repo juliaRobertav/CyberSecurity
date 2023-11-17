@@ -24,6 +24,8 @@ Hackone - Lucas Palmo
 
 {% embed url="https://www.udemy.com/pt/topic/cyber-security/free/" %}
 
+{% embed url="https://www.udemy.com/cart/subscribe/course/4619690/" %}
+
 ### Hacker Ético - Cursos:
 
 {% embed url="https://www.udemy.com/courses/search/?src=ukw&subs_filter_type=subs_only&q=hacker+etico+" %}
