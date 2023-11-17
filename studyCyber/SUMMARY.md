@@ -14,3 +14,4 @@
 * [Áreas](areas/README.md)
   * [Redes](areas/redes/README.md)
     * [O que são redes?](areas/redes/o-que-sao-redes.md)
+* [Certificações](certificacoes.md)
