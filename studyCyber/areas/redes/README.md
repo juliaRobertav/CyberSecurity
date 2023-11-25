@@ -34,3 +34,5 @@ O teste de penetração, comumente chamado de "pentest" ou "pen testing," é uma
 É importante observar que os testes de penetração devem ser conduzidos de forma ética e autorizada. A empresa ou organização que é dona da rede ou sistema deve conceder permissão explícita para que os testes sejam realizados. Além disso, os testes devem ser conduzidos por profissionais de segurança devidamente qualificados e experientes para garantir que não haja danos ou impactos negativos à operação da rede.
 
 Em resumo, os testes de penetração desempenham um papel crucial na avaliação e melhoria da segurança de redes, permitindo que as organizações identifiquem e corrijam vulnerabilidades antes que os cibercriminosos possam explorá-las.
+
+{% embed url="https://www.youtube.com/channel/UCp662gGGgJ85g2-9FOVWpgg" %}
