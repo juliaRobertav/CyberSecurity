@@ -2,6 +2,7 @@
 
 * [CyberSecurity](README.md)
   * [Dicas](cybersecurity/dicas.md)
+  * [Dicas 2.0](readme/dicas-1.md)
 
 ## ETHICAL HACKING
 
