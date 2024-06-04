@@ -12,9 +12,12 @@
 
 ***
 
-* [Áreas](areas/README.md)
+* [Base](areas/README.md)
   * [Redes](areas/redes/README.md)
     * [O que são redes?](areas/redes/o-que-sao-redes.md)
 * [Certificações](certificacoes.md)
-* [ETC](etc.md)
 * [Segurança da Informação](seguranca-da-informacao.md)
+
+## Trilha
+
+* [Anotações](trilha/anotacoes.md)
