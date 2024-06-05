@@ -10,6 +10,7 @@
 * [CyberSegurança](cyberseguranca/README.md)
   * [Ataques Cibernéticos](cyberseguranca/ataques-ciberneticos.md)
   * [Proteção de Perímetro](cyberseguranca/protecao-de-perimetro.md)
+  * [Boas Práticas](cyberseguranca/boas-praticas.md)
 * [Ethical Hacking](ethical-hacking/README.md)
   * [Conceitos Legais](ethical-hacking/conceitos-legais.md)
   * [Pentest](ethical-hacking/pentest.md)
