@@ -24,6 +24,10 @@ Hackone - Lucas Palmo
 
 ### Cursos:
 
+{% embed url="https://ciberseguranca.hackone.com.br/comunidade" %}
+
+{% embed url="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html" %}
+
 {% embed url="https://www.udemy.com/courses/search/?src=ukw&subs_filter_type=subs_only&q=seguran%C3%A7a+cibern%C3%A9tica" %}
 
 {% embed url="https://www.udemy.com/pt/topic/cyber-security/free/" %}

@@ -1,138 +1,60 @@
+---
+description: Dicas de estudos, livros, cursos e ferramentas de cybersecurity
+---
+
 # Cursos
 
-* Lembrando que o essencial é ter a base primeiro, como entender Redes, Firewall, etc...
+### Cursos e Recursos
 
-Se você está interessado em aprender e iniciar na área de cibersegurança, existem muitos recursos disponíveis, incluindo sites, cursos e dicas que podem ajudá-lo a adquirir as habilidades necessárias. Aqui estão algumas recomendações:
-
-**Sites e Recursos:**
-
-1. **Cybrary.it:** Cybrary oferece uma ampla gama de cursos gratuitos e pagos sobre segurança cibernética, desde noções básicas até tópicos avançados. Eles também têm laboratórios práticos.
-2. **OWASP (Open Web Application Security Project):** O OWASP é uma organização que fornece recursos valiosos relacionados à segurança de aplicativos web, incluindo guias, ferramentas e projetos de código aberto.
-3. **SANS Institute:** O SANS é bem conhecido por seus cursos de segurança cibernética e tem um blog com informações úteis e recursos gratuitos.
-4. **Hack The Box:** Um ambiente de laboratório virtual que oferece desafios práticos de segurança cibernética para ajudá-lo a desenvolver habilidades.
-5. **The Hacker News:** Um site de notícias e recursos relacionados à segurança cibernética, que mantém você atualizado com as últimas ameaças e tendências.
-6. **Reddit (r/netsec e r/AskNetsec):** Estes subreddits são ótimos para se manter informado e fazer perguntas relacionadas à segurança cibernética.
-
-**Cursos Online:**
-
-1. **Coursera:** Oferece uma série de cursos relacionados à cibersegurança de universidades e instituições de renome.
-2. **edX:** Similar ao Coursera, o edX também oferece cursos de segurança cibernética de instituições de ensino superior.
-3. **Udemy:** Uma plataforma de cursos online com uma variedade de opções de segurança cibernética, de cursos introdutórios a especializações avançadas.
-4. **Plataformas de Treinamento em Certificações:** Considere cursos que ajudem a se preparar para certificações populares de segurança cibernética, como CompTIA Security+, Certified Information Systems Security Professional (CISSP) e Certified Ethical Hacker (CEH).
-
-**Dicas para Iniciantes:**
-
-1. **Comece com os fundamentos:** Entenda os conceitos básicos de segurança cibernética, como criptografia, redes, sistemas operacionais e protocolos.
-2. **Pratique em ambientes controlados:** Use laboratórios virtuais, máquinas virtuais ou ambientes de teste para praticar suas habilidades sem prejudicar sistemas reais.
-3. **Participe de comunidades online:** Fóruns, grupos de discussão e redes sociais são ótimos lugares para fazer perguntas, aprender com os outros e ficar atualizado.
-4. **Mantenha-se atualizado:** A segurança cibernética é uma área em constante evolução. Siga as notícias, blogs e podcasts relevantes para estar ciente das últimas ameaças e tendências.
-5. **Considere certificações:** Certificações em segurança cibernética podem ajudar a validar suas habilidades e conhecimentos.
-6. **Ética e Legalidade:** Lembre-se de que a ética e a legalidade são fundamentais na segurança cibernética. Pratique apenas em ambientes autorizados e respeite as leis de cibersegurança.
-
-Lembre-se de que a cibersegurança é uma área vasta, e você pode escolher se especializar em aspectos como segurança de redes, segurança de aplicativos, análise de malware, entre outros. Portanto, é importante definir seus interesses e objetivos específicos ao buscar recursos de aprendizado.
-
-### Para Estudar:
-
-Se você não sabe nada sobre cibersegurança e deseja começar a aprender, existem vários recursos online gratuitos que podem ser muito úteis. Aqui estão alguns sites e recursos que são excelentes para iniciantes em cibersegurança:
-
-1. **Cybrary.it**: Cybrary oferece uma variedade de cursos gratuitos em segurança cibernética, desde o básico até tópicos mais avançados.
-2. **OverTheWire**: O OverTheWire oferece uma série de desafios de guerra de invasão (wargames) que podem ajudar a desenvolver suas habilidades em segurança e resolução de problemas.
-3. **TryHackMe**: TryHackMe é uma plataforma de aprendizado interativa que oferece desafios práticos de segurança cibernética e laboratórios virtuais.
-4. **Hack The Box**: Hack The Box é uma plataforma que fornece máquinas virtuais para você explorar e aprender sobre segurança cibernética em um ambiente controlado.
-5. **Open Security Training**: Este é um repositório de material de treinamento de segurança cibernética, incluindo aulas em vídeo, slides e laboratórios práticos.
-6. **SecurityTube**: SecurityTube oferece uma grande variedade de recursos em vídeo relacionados à segurança cibernética, incluindo tutoriais e aulas.
-7. **SANS Cyber Aces Online**: A SANS Institute oferece o programa Cyber Aces, que inclui cursos introdutórios gratuitos em segurança cibernética.
-8. **YouTube**: Existem muitos canais no YouTube dedicados à cibersegurança, como "Cyber Mentor", "IppSec", e "LiveOverflow". Eles oferecem tutoriais e informações valiosas.
-9. **Coursera**: Embora muitos cursos no Coursera tenham um custo, você pode se inscrever para auditá-los gratuitamente. Procure cursos em segurança cibernética de universidades respeitáveis.
-10. **EdX**: EdX também oferece uma variedade de cursos em segurança cibernética de instituições acadêmicas de renome, muitos dos quais podem ser auditados gratuitamente.
-11. **Livros online**: Existem vários livros gratuitos sobre segurança cibernética disponíveis online, como "OWASP Web Security Testing Guide" e "The Web Application Hacker's Handbook".
-12. **Fóruns e comunidades online**: Participe de fóruns como o Reddit /r/netsec e Stack Overflow, onde você pode fazer perguntas, obter dicas e aprender com outros profissionais de segurança cibernética.
-
-Lembre-se de que a segurança cibernética é uma área vasta e em constante evolução. Comece com os conceitos básicos, como networking, sistemas operacionais e criptografia, antes de se aprofundar em tópicos mais avançados. Além disso, prática e experimentação são essenciais para desenvolver habilidades sólidas em segurança cibernética.
+1. Coursera: oferece diversos cursos online sobre cybersecurity, como "Cybersecurity Specialization" e "Introduction to Cyber Security Specialization"
+2. Udemy: possui uma variedade de cursos sobre cybersecurity, como "The Complete Cyber Security Course" e "Cyber Security for Beginners"
+3. Cybrary: plataforma de aprendizado online focada em cybersecurity, com cursos gratuitos e pagos
+4. Pluralsight: oferece cursos de treinamento em cybersecurity, incluindo "Ethical Hacking" e "Cybersecurity Fundamentals"
+5. SANS Institute: oferece treinamentos e certificações em cybersecurity, incluindo cursos presenciais e online
+6. Hack The Box: plataforma de treinamento em cybersecurity, com desafios e laboratórios práticos para aprender habilidades de hacking ético
+7. OWASP: oferece recursos gratuitos, como guias e ferramentas, para aprender sobre segurança de aplicativos web
+8. SecurityTube: plataforma de aprendizado online com vídeos e tutoriais sobre hacking e segurança de redes
+9. Cybrary **(Cybrary.it)**: oferece cursos gratuitos sobre segurança cibernética, incluindo "Ethical Hacking" e "CompTIA Security+"
+10. Offensive Security: oferece treinamentos e certificações em hacking ético, como o curso "Penetration Testing with Kali Linux"
 
 
 
+### Livros
 
-
-### O que Estudar:
-
-
-
-Para alguém que está começando na área de cibersegurança e não tem conhecimento prévio, é importante começar com os fundamentos. Aqui estão algumas dicas sobre o que estudar primeiro:
-
-1. **Conceitos Básicos de Segurança Cibernética:**
-   * Comece aprendendo os princípios fundamentais da segurança cibernética, incluindo ameaças comuns, ativos de segurança e os três pilares da segurança: confidencialidade, integridade e disponibilidade.
-2. **Redes de Computadores:**
-   * Entenda os conceitos básicos de redes, como protocolos, endereçamento IP, roteadores, switches e topologias de rede. Isso é crucial, pois a segurança de redes é uma parte fundamental da cibersegurança.
-3. **Sistemas Operacionais:**
-   * Familiarize-se com sistemas operacionais comuns, como Windows e Linux. Saiba como administrá-los e entender suas configurações de segurança.
-4. **Criptografia:**
-   * A criptografia desempenha um papel vital na segurança cibernética. Estude os princípios básicos de criptografia, incluindo algoritmos de criptografia, chaves públicas e privadas, e como criptografar e descriptografar informações.
-5. **Segurança de Senhas e Autenticação:**
-   * Aprenda sobre a importância de senhas seguras, autenticação de dois fatores (2FA) e métodos de autenticação biométrica.
-6. **Malware e Ameaças Cibernéticas:**
-   * Explore os diferentes tipos de malware, como vírus, worms, trojans e spyware, bem como táticas comuns de ameaças, como phishing e engenharia social.
-7. **Políticas de Segurança e Conformidade:**
-   * Compreenda a importância das políticas de segurança cibernética e as regulamentações de conformidade, como o Regulamento Geral de Proteção de Dados (GDPR) e a Lei de Proteção de Dados dos Estados Unidos (HIPAA).
-8. **Firewalls e Sistemas de Detecção de Intrusões (IDS):**
-   * Estude como os firewalls funcionam para proteger redes e como os IDS identificam atividades suspeitas na rede.
-9. **Hacking Ético e Testes de Penetração:**
-   * Aprenda os princípios de hacking ético e testes de penetração, incluindo a importância da autorização prévia e do uso de ferramentas adequadas.
-10. **Recursos de Aprendizado:**
-    * Utilize cursos online, tutoriais em vídeo, livros e recursos gratuitos para ampliar seu conhecimento. Plataformas como Coursera, edX, Cybrary, Udemy e Khan Academy oferecem cursos introdutórios.
-11. **Laboratórios Práticos:**
-    * Experimente configurar laboratórios práticos para aplicar o que você aprendeu. Você pode usar máquinas virtuais e ambientes de teste para praticar suas habilidades com segurança.
-12. **Comunidades e Fóruns:**
-    * Participe de comunidades online, como fóruns de segurança cibernética e grupos de discussão, para fazer perguntas, compartilhar conhecimento e aprender com outros profissionais.
-
-Lembre-se de que a segurança cibernética é uma área ampla, e você pode escolher se especializar em áreas específicas, como segurança de redes, segurança de aplicativos, forense digital, entre outras, à medida que ganha experiência. Paciência e prática constante são essenciais ao aprender segurança cibernética.
+1. "The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data" por Kevin Mitnick
+2. "Hacking: The Art of Exploitation" por Jon Erickson
+3. "Cybersecurity for Beginners" por Raef Meeuwisse
+4. "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws" por Dafydd Stuttard e Marcus Pinto
+5. "CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide" por Mike Chapple, James Michael Stewart e Darril Gibson
+6. "Black Hat Python: Python Programming for Hackers and Pentesters" por Justin Seitz
+7. "Network Security Essentials: Applications and Standards" por William Stallings
+8. "The Tangled Web: A Guide to Securing Modern Web Applications" por Michal Zalewski
+9. "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software" por Michael Sikorski e Andrew Honig
+10. "The Hacker Playbook 3: Practical Guide to Penetration Testing" por Peter Kim
 
 
 
+### Para Iniciantes
 
-
-### Onde Estudar:
-
-
-
-1. **Universidades e Cursos Online:**
-   * Considere se inscrever em cursos universitários relacionados à cibersegurança. Muitas universidades oferecem programas de graduação e pós-graduação na área. Além disso, plataformas online como Coursera, edX, Udemy e Pluralsight oferecem cursos de cibersegurança de alta qualidade.
-2. **Certificações de Cibersegurança:**
-   * Certificações são uma maneira sólida de validar suas habilidades. Algumas das certificações mais populares incluem CompTIA Security+, Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), Certified Information Security Manager (CISM) e Certified Information Systems Auditor (CISA).
-3. **Livros de Cibersegurança:**
-   * Existem inúmeros livros sobre cibersegurança que cobrem desde os fundamentos até tópicos avançados. Alguns títulos recomendados incluem "CISSP All-in-One Exam Guide" de Shon Harris, "Hacking: The Art of Exploitation" de Jon Erickson e "Network Security Essentials" de William Stallings.
-4. **Laboratórios Práticos e Simulações:**
-   * Laboratórios virtuais e ambientes de teste práticos são cruciais para a aprendizagem em cibersegurança. Plataformas como Hack The Box, TryHackMe e Metasploit Unleashed oferecem ambientes de laboratório para prática.
-5. **Blogs e Sites de Notícias:**
-   * Siga blogs e sites de notícias de cibersegurança para se manter atualizado com as últimas tendências e ameaças. Exemplos incluem o blog da Krebs on Security, Dark Reading e Threatpost.
-6. **Comunidades Online:**
-   * Participe de fóruns e grupos de discussão de cibersegurança, como o Reddit (r/netsec e r/AskNetsec), Stack Overflow, e o fórum do Hack The Box. Isso permite que você faça perguntas e aprenda com a comunidade.
-7. **Treinamento Prático em Hack Ethical:**
-   * Considere fazer cursos de hacking ético, que ensinam a pensar como um hacker para melhor proteger sistemas. Existem muitos cursos online dedicados a esse assunto.
-8. **Recursos Governamentais:**
-   * Muitos governos oferecem recursos de cibersegurança, incluindo diretrizes, boletins informativos e recursos educacionais. Verifique os recursos do seu governo, como o Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil (CERT.br).
-9. **YouTube e Tutoriais em Vídeo:**
-   * Plataformas como o YouTube possuem uma riqueza de tutoriais em vídeo relacionados à cibersegurança. Canais como "The Cyber Mentor" e "IppSec" são excelentes recursos.
-10. **Participe de Cursos e Workshops Locais:**
-    * Verifique se existem cursos e workshops locais de cibersegurança, geralmente oferecidos por organizações de segurança, universidades ou grupos de interesse.
-11. **Conferências de Cibersegurança:**
-    * Considere participar de conferências de cibersegurança, como DEFCON, Black Hat e RSA Conference. Muitas conferências agora são realizadas virtualmente.
-12. **Prática e Desafios:**
-    * Envolva-se em desafios de segurança cibernética e competições de CTF (Capture The Flag) para aplicar suas habilidades em um ambiente prático.
-
-Lembre-se de que a cibersegurança é uma disciplina em constante evolução, então a prática e a atualização contínua são essenciais. Conforme você ganha experiência, você pode escolher áreas de especialização que melhor atendam aos seus interesses e objetivos de carreira.
-
-
+1. Fundamentos de redes: Compreender os princípios básicos de redes, como protocolos, endereçamento IP, roteamento e segurança de redes.
+2. Sistemas operacionais: Ter conhecimento sobre sistemas operacionais, especialmente Windows e Linux, incluindo comandos básicos, gerenciamento de arquivos e permissões.
+3. Criptografia: Entender os princípios de criptografia, incluindo algoritmos, chaves públicas/privadas, assinaturas digitais e SSL/TLS.
+4. Segurança de aplicativos web: Aprender sobre vulnerabilidades comuns em aplicações web, como injeção de SQL, cross-site scripting (XSS) e ataques de falsificação de solicitação entre sites (CSRF).
+5. Segurança de sistemas: Conhecer os princípios de segurança de sistemas, incluindo autenticação, autorização, controle de acesso e princípios de least privilege.
+6. Ética e leis: Compreender as questões éticas e legais relacionadas à segurança cibernética, incluindo privacidade, conformidade e leis de cibercrime.
+7. Ferramentas de segurança: Familiarizar-se com ferramentas comuns de segurança, como scanners de vulnerabilidades, firewalls, sistemas de detecção de intrusões (IDS) e sistemas de prevenção de intrusões (IPS).
 
 
 
 ### Ferramentas
 
-* Nmap: Uma ferramenta de código aberto usada para escanear redes e descobrir dispositivos, serviços e vulnerabilidades em uma rede.
-* Metasploit Framework: Uma ferramenta de teste de penetração e desenvolvimento de exploits que ajuda os profissionais de segurança a testar a segurança de sistemas e redes.
-* Wireshark: Um analisador de protocolo de rede de código aberto usado para capturar e analisar o tráfego de rede em tempo real.
-* Burp Suite: Uma suíte de ferramentas de segurança de aplicativos da web usada para testar a segurança de aplicativos da web por meio de testes de penetração, varreduras de vulnerabilidade e exploração de falhas.
-* Snort: Um sistema de detecção e prevenção de intrusões de código aberto usado para monitorar e analisar o tráfego de rede em busca de atividades maliciosas.
-* OpenVAS: Uma ferramenta de análise de vulnerabilidades de código aberto usada para identificar e avaliar vulnerabilidades de segurança em sistemas e redes.
-* OSSEC: Um sistema de detecção de intrusões de código aberto usado para monitorar e analisar logs de segurança em busca de atividades maliciosas.
-* Cuckoo Sandbox: Uma plataforma de análise de malware de código aberto usada para executar arquivos suspeitos em um ambiente isolado e analisar seu comportamento.
+1. Nmap: Uma ferramenta de varredura de rede que é usada para descobrir hosts e serviços em uma rede.
+2. Wireshark: Um analisador de protocolo de rede que permite capturar e analisar o tráfego de rede em tempo real.
+3. Metasploit: Uma plataforma de teste de penetração que permite testar a segurança de sistemas e redes, além de realizar ataques controlados.
+4. Burp Suite: Uma ferramenta de teste de segurança de aplicativos web que ajuda a identificar vulnerabilidades em aplicações web.
+5. Snort: Um sistema de detecção de intrusões de código aberto que monitora e analisa o tráfego de rede em busca de atividades maliciosas.
+6. Kali Linux: Uma distribuição Linux especializada em segurança cibernética, que inclui uma ampla gama de ferramentas de teste de penetração e análise forense.
+7. Aircrack-ng: Uma suíte de ferramentas para testar a segurança de redes sem fio, incluindo a quebra de chaves WEP e WPA.
+8. OpenVAS: Um scanner de vulnerabilidades de código aberto que ajuda a identificar e gerenciar vulnerabilidades em sistemas e redes.
+9. Hashcat: Uma ferramenta de quebra de senha que suporta vários algoritmos de hash e técnicas de ataque.
+10. OSSEC: Um sistema de detecção de intrusões de código aberto que fornece monitoramento em tempo real, análise de logs e resposta a incidentes.
