@@ -77,4 +77,4 @@ Ameaças como roubo e dano, a bens como pessoal (Ex: escritório da empresa) equ
 
 <mark style="color:orange;">Soluções utilizadas:</mark>  Câmeras de vigilância (para verificar quem esta acessando ou que aconteceu, quem cometeu o delito), controle de acesso, extintores de incêndio, detectores de fumaça, ar condicionado, no-breaks cages, segurança patrimoniais.
 
-* Boa parte do trabalho do profissional de cyber Security é verificar se tem alguma falha nas instalações como por exemplo falta de câmeras ou ponto cego e auditar se somente pessoas autorizadas estão acessando áreas restritas como por exemplo a data center da empresa.
+* Boa parte do trabalho do profissional de cybersecurity é verificar se tem alguma falha nas instalações como por exemplo falta de câmeras ou ponto cego e auditar se somente pessoas autorizadas estão acessando áreas restritas como por exemplo a data center da empresa.
