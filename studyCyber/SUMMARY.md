@@ -9,6 +9,7 @@
 * [Segurança da Informação](seguranca-da-informacao.md)
 * [CyberSegurança](cyberseguranca/README.md)
   * [Ataques Cibernéticos](cyberseguranca/ataques-ciberneticos.md)
+  * [Proteção de Perímetro](cyberseguranca/protecao-de-perimetro.md)
 * [Ethical Hacking](ethical-hacking/README.md)
   * [Conceitos Legais](ethical-hacking/conceitos-legais.md)
   * [Pentest](ethical-hacking/pentest.md)

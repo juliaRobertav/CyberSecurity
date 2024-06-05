@@ -10,6 +10,8 @@ description: Estudos sobre essa área!
 
 {% embed url="https://drive.google.com/drive/mobile/folders/1apHTm1tH2Tlz5Lpy6j5xRVBcv3Lvtz_h?fbclid=PAAab9_jTz2kKbsUCAu50as_asuQl0mJQ-oTMvbOnW6p-NsUv9DtaSrEQQXnI_aem_AbeauvZ40_StOxacY9NeMy_33-_1wTGAkkGkFffDnRyz9r0YCF4f2_PxMA1MvlZjOGE" %}
 
+{% embed url="https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html" %}
+
 {% embed url="https://www.microsoft.com/pt-br/security/business/security-101/what-is-cybersecurity" %}
 
 {% embed url="https://canaltech.com.br/produtos/o-que-e-dos-e-ddos/" %}
@@ -20,9 +22,15 @@ description: Estudos sobre essa área!
 
 ### Cursos:
 
+{% embed url="https://skillsforall.com/course/introduction-to-cybersecurity" %}
+
 {% embed url="https://ciberseguranca.hackone.com.br/comunidade" %}
 
+{% embed url="https://www.cisco.com/c/m/en_emear/campaigns/security/cybersecurity-essentials.html" %}
+
 {% embed url="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html" %}
+
+{% embed url="https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_LATAM_google-cybersecurity_google_FTCOF_professional-certificates_countrygroup-1&campaignid=20860268620&adgroupid=153955586102&device=c&keyword=cybersecurity&matchtype=b&network=g&devicemodel=&adposition=&creativeid=688146837080&hide_mobile_promo&gad_source=1&gclid=CjwKCAjwmYCzBhA6EiwAxFwfgDcA3uOs4S6tslmZZSkroGzyF476shqvQbMF2qn2DsE9PtjzIJN2jhoC-U0QAvD_BwE" %}
 
 {% embed url="https://www.udemy.com/courses/search/?src=ukw&subs_filter_type=subs_only&q=seguran%C3%A7a+cibern%C3%A9tica" %}
 
