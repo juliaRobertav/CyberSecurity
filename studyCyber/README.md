@@ -2,11 +2,15 @@
 description: Estudos sobre essa área!
 ---
 
-# CyberSecurity
+# Dicas
 
 ### Cyber Security - Pesquisas/Estudos
 
 
+
+{% embed url="https://drive.google.com/drive/mobile/folders/1apHTm1tH2Tlz5Lpy6j5xRVBcv3Lvtz_h?fbclid=PAAab9_jTz2kKbsUCAu50as_asuQl0mJQ-oTMvbOnW6p-NsUv9DtaSrEQQXnI_aem_AbeauvZ40_StOxacY9NeMy_33-_1wTGAkkGkFffDnRyz9r0YCF4f2_PxMA1MvlZjOGE" %}
+
+{% embed url="https://www.microsoft.com/pt-br/security/business/security-101/what-is-cybersecurity" %}
 
 {% embed url="https://ciberseguranca.hackone.com.br/comunidade" %}
 Hackone - Lucas Palmo
@@ -33,6 +37,10 @@ Hackone - Lucas Palmo
 ### Guia:
 
 {% embed url="https://github.com/arthurspk/guiadecybersecurity#-introdu%C3%A7%C3%A3o-a-%C3%A1rea-de-cyber-security" %}
+
+### Ferramentas
+
+{% embed url="https://nmap.org/docs.html" %}
 
 ### Livros:
 

@@ -1,4 +1,8 @@
-# Anotações
+---
+description: Páginas relacionadas a trilha
+---
+
+# CyberSegurança
 
 {% file src="../.gitbook/assets/Cyber Segurança 1.pptx" %}
 
@@ -12,7 +16,7 @@ Verifica as vulnerabilidades, ameaças, os riscos e responde a incidentes de seg
 
 * Cybersegurança
 
-Protege as informações e os dadosapenas no formato digital
+Protege as informações e os dados apenas no formato digital
 
 * Segurança da Informação
 
@@ -38,5 +42,28 @@ Assegurar que as informações estejam disponíveis a pessoas autorizadas.
 
 
 
-### Objetivos dos Cyberataques
+### Objetivos dos Cyber Ataques
 
+* roubo de dados
+* espionagem industrial
+* guerra
+* ativismo de internet
+* negação de serviço
+* sequestro de dados
+
+
+
+### Impactos dos Cyber Ataques
+
+* Técnicos
+* Colaborações
+* Multas
+* Imagem, reputação
+* Resultados financeiros
+* Consequências legais
+
+
+
+### Comércio de violação de dados
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>

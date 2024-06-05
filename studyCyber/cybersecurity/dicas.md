@@ -1,10 +1,4 @@
-# Dicas
-
-{% embed url="https://www.microsoft.com/pt-br/security/business/security-101/what-is-cybersecurity" %}
-
-{% embed url="https://drive.google.com/drive/mobile/folders/1apHTm1tH2Tlz5Lpy6j5xRVBcv3Lvtz_h?fbclid=PAAab9_jTz2kKbsUCAu50as_asuQl0mJQ-oTMvbOnW6p-NsUv9DtaSrEQQXnI_aem_AbeauvZ40_StOxacY9NeMy_33-_1wTGAkkGkFffDnRyz9r0YCF4f2_PxMA1MvlZjOGE" %}
-
-
+# Cursos
 
 * Lembrando que o essencial é ter a base primeiro, como entender Redes, Firewall, etc...
 
@@ -37,11 +31,7 @@ Se você está interessado em aprender e iniciar na área de cibersegurança, ex
 
 Lembre-se de que a cibersegurança é uma área vasta, e você pode escolher se especializar em aspectos como segurança de redes, segurança de aplicativos, análise de malware, entre outros. Portanto, é importante definir seus interesses e objetivos específicos ao buscar recursos de aprendizado.
 
-
-
 ### Para Estudar:
-
-
 
 Se você não sabe nada sobre cibersegurança e deseja começar a aprender, existem vários recursos online gratuitos que podem ser muito úteis. Aqui estão alguns sites e recursos que são excelentes para iniciantes em cibersegurança:
 
@@ -131,3 +121,18 @@ Lembre-se de que a segurança cibernética é uma área ampla, e você pode esco
     * Envolva-se em desafios de segurança cibernética e competições de CTF (Capture The Flag) para aplicar suas habilidades em um ambiente prático.
 
 Lembre-se de que a cibersegurança é uma disciplina em constante evolução, então a prática e a atualização contínua são essenciais. Conforme você ganha experiência, você pode escolher áreas de especialização que melhor atendam aos seus interesses e objetivos de carreira.
+
+
+
+
+
+### Ferramentas
+
+* Nmap: Uma ferramenta de código aberto usada para escanear redes e descobrir dispositivos, serviços e vulnerabilidades em uma rede.
+* Metasploit Framework: Uma ferramenta de teste de penetração e desenvolvimento de exploits que ajuda os profissionais de segurança a testar a segurança de sistemas e redes.
+* Wireshark: Um analisador de protocolo de rede de código aberto usado para capturar e analisar o tráfego de rede em tempo real.
+* Burp Suite: Uma suíte de ferramentas de segurança de aplicativos da web usada para testar a segurança de aplicativos da web por meio de testes de penetração, varreduras de vulnerabilidade e exploração de falhas.
+* Snort: Um sistema de detecção e prevenção de intrusões de código aberto usado para monitorar e analisar o tráfego de rede em busca de atividades maliciosas.
+* OpenVAS: Uma ferramenta de análise de vulnerabilidades de código aberto usada para identificar e avaliar vulnerabilidades de segurança em sistemas e redes.
+* OSSEC: Um sistema de detecção de intrusões de código aberto usado para monitorar e analisar logs de segurança em busca de atividades maliciosas.
+* Cuckoo Sandbox: Uma plataforma de análise de malware de código aberto usada para executar arquivos suspeitos em um ambiente isolado e analisar seu comportamento.
