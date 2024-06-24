@@ -12,6 +12,8 @@ description: Estudos sobre essa área!
 
 {% embed url="https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html" %}
 
+{% embed url="https://hackersec.com/academy/" %}
+
 {% embed url="https://www.microsoft.com/pt-br/security/business/security-101/what-is-cybersecurity" %}
 
 {% embed url="https://canaltech.com.br/produtos/o-que-e-dos-e-ddos/" %}

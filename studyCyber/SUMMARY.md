@@ -18,6 +18,8 @@
   * [Cloud Protection](cyberseguranca/cloud-protection.md)
   * [Tips for personal security](cyberseguranca/tips-for-personal-security.md)
   * [Penetration Test](cyberseguranca/penetration-test.md)
+  * [LGPD](cyberseguranca/lgpd.md)
+  * [Ferramentas](cyberseguranca/ferramentas.md)
 * [Ethical Hacking](ethical-hacking/README.md)
   * [Conceitos Legais](ethical-hacking/conceitos-legais.md)
   * [Pentest](ethical-hacking/pentest.md)
