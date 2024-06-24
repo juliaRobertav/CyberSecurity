@@ -1,5 +1,5 @@
 ---
-description: Páginas relacionadas a trilha
+description: Anotações referentes ao slide que está em anexo abaixo
 ---
 
 # CyberSegurança
@@ -51,6 +51,8 @@ Assegurar que as informações estejam disponíveis a pessoas autorizadas.
 * negação de serviço
 * sequestro de dados
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### Impactos dos Cyber Ataques
@@ -62,8 +64,10 @@ Assegurar que as informações estejam disponíveis a pessoas autorizadas.
 * Resultados financeiros
 * Consequências legais
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### Comércio de violação de dados
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
