@@ -2,7 +2,7 @@
 description: Anotações referentes ao slide que está em anexo abaixo
 ---
 
-# CyberSegurança
+# CiberSegurança
 
 {% file src="../.gitbook/assets/Cyber Segurança 1.pptx" %}
 
@@ -51,7 +51,7 @@ Assegurar que as informações estejam disponíveis a pessoas autorizadas.
 * negação de serviço
 * sequestro de dados
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,7 +64,7 @@ Assegurar que as informações estejam disponíveis a pessoas autorizadas.
 * Resultados financeiros
 * Consequências legais
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
