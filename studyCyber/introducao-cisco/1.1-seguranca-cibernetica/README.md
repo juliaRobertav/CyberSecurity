@@ -101,7 +101,7 @@ Um de seus amigos ficou tão orgulhoso que decidiu publicar e compartilhar suas 
 
 Este é apenas um exemplo que nos lembra que toda vez que coletamos ou compartilhamos dados pessoais, devemos considerar nossa segurança. Existem diferentes leis que protegem a privacidade e os dados no seu país. Mas você sabe onde estão seus dados?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="113"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="113"><figcaption></figcaption></figure>
 
 Após uma consulta, o médico atualizará seu prontuário médico. Para efeitos de cobrança, essas informações podem ser compartilhadas com a empresa de seguros para garantir a qualidade e a cobrança adequadas. Nesses casos, seu prontuário médico, ou parte dele, agora pode ser acessado pela seguradora.
 
