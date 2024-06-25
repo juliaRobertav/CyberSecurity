@@ -29,4 +29,5 @@
     * [1.3 O que foi roubado](introducao-cisco/1.1-seguranca-cibernetica/1.3-o-que-foi-roubado.md)
     * [1.4 Invasores cibernéticos](introducao-cisco/1.1-seguranca-cibernetica/1.4-invasores-ciberneticos.md)
     * [1.5 Guerra cibernética](introducao-cisco/1.1-seguranca-cibernetica/1.5-guerra-cibernetica.md)
-  * [2.1 Analisando um ataque cibernético](introducao-cisco/2.1-analisando-um-ataque-cibernetico.md)
+  * [2.1 Analisando um ataque cibernético](introducao-cisco/2.1-analisando-um-ataque-cibernetico/README.md)
+    * [2.2 Métodos de infiltração](introducao-cisco/2.1-analisando-um-ataque-cibernetico/2.2-metodos-de-infiltracao.md)
