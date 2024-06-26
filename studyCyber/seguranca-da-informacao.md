@@ -1,10 +1,8 @@
 # Segurança da Informação
 
-Documento Pessoal:
-
-{% embed url="https://jurovgui.notion.site/Seguran-a-da-Informa-o-ee7e1cf82e5d4178ab959725089a2fb6?pvs=4" %}
-
 Slides aulas:
+
+{% file src=".gitbook/assets/slides.zip" %}
 
 {% file src=".gitbook/assets/ISI-A00-Apresentacao_Discip (2).pdf" %}
 
@@ -19,3 +17,9 @@ Slides aulas:
 {% file src=".gitbook/assets/ISI-A07-SEG_INF-Aplic_Normas (2).pdf" %}
 
 {% file src=".gitbook/assets/ISI-A08-SEG_INF-Senha (2).pdf" %}
+
+{% file src=".gitbook/assets/ISI-A09 - Backup.pdf" %}
+
+{% file src=".gitbook/assets/ISI-A10-Criptografia.pdf" %}
+
+{% file src=".gitbook/assets/ISI-A11-SEG_INF-CID.pdf" %}
