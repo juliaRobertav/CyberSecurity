@@ -24,6 +24,8 @@ description: Estudos sobre essa área!
 
 {% embed url="https://www.microsoft.com/pt-br/security/business/security-101/what-is-cybersecurity" %}
 
+{% embed url="https://docs.servicenow.com/pt-BR/bundle/washingtondc-platform-security/page/administer/security/concept/security-roles.html" %}
+
 {% embed url="https://canaltech.com.br/produtos/o-que-e-dos-e-ddos/" %}
 
 {% embed url="https://it4us.com.br/como-funciona-um-penetration-te/" %}
