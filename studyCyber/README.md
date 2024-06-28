@@ -10,6 +10,8 @@ description: Estudos sobre essa área!
 
 {% embed url="https://roadmap.sh/cyber-security" %}
 
+{% embed url="https://csrc.nist.gov/glossary/term/security_authorization" %}
+
 {% embed url="https://learn.microsoft.com/pt-br/" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/security/" %}
