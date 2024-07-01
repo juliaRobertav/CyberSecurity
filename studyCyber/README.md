@@ -12,6 +12,10 @@ description: Estudos sobre essa área!
 
 {% embed url="https://csrc.nist.gov/glossary/term/security_authorization" %}
 
+{% embed url="https://www.cert.br/" %}
+
+{% embed url="https://www.cert.br/docs/" %}
+
 {% embed url="https://learn.microsoft.com/pt-br/" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/security/" %}

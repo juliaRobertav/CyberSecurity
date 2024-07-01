@@ -8,5 +8,3 @@ description: Processos de autorização do usuário
 
 {% embed url="https://blog.apiki.com/roles-e-capabilities-como-usar-da-melhor-forma/" %}
 
-{% embed url="https://youtu.be/FthMYA_OHC8?si=Yih546KvpldSNPH1" %}
-

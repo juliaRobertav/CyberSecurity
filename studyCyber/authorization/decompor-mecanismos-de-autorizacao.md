@@ -4,6 +4,10 @@ description: O que é ABAC, RBAC e como decompor mecanismos AuthZ
 
 # Decompor mecanismos de autorização
 
+Conteúdo baseado nesse vídeo:
+
+{% embed url="https://youtu.be/FthMYA_OHC8?si=Yih546KvpldSNPH1" %}
+
 ### Acessos
 
 Nem sempre autorização é definir os acessos por cargo (admin por exemplo), as vezes é preciso decompor esse mecanismo de autorização.
