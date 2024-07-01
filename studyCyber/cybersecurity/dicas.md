@@ -4,6 +4,8 @@ description: Dicas de estudos, livros, cursos e ferramentas de cybersecurity
 
 # Cursos
 
+{% embed url="https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao" %}
+
 ### Cursos e Recursos
 
 1. Coursera: oferece diversos cursos online sobre cybersecurity, como "Cybersecurity Specialization" e "Introduction to Cyber Security Specialization"
