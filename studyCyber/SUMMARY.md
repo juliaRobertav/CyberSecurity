@@ -32,3 +32,4 @@
   * [2.1 Analisando um ataque cibernético](introducao-cisco/2.1-analisando-um-ataque-cibernetico/README.md)
     * [2.2 Métodos de infiltração](introducao-cisco/2.1-analisando-um-ataque-cibernetico/2.2-metodos-de-infiltracao.md)
     * [2.3 Exploits e vulnerabilidade de segurança](introducao-cisco/2.1-analisando-um-ataque-cibernetico/2.3-exploits-e-vulnerabilidade-de-seguranca.md)
+* [Segurança e Privacidade](seguranca-e-privacidade.md)
