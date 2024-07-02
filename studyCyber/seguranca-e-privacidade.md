@@ -6,3 +6,4 @@ description: Segurança e Privacidade dos dados
 
 {% embed url="https://targetbank.com.br/central-de-ajuda/qual-a-diferenca-entre-seguranca-de-dados-e-privacidade-de-dados/" %}
 
+{% embed url="https://youtu.be/gXMRXoPeQNA?si=AFywgLbd4N8JNiWq" %}
