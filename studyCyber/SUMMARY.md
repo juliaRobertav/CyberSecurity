@@ -35,5 +35,5 @@
     * [2.3 Exploits e vulnerabilidade de segurança](introducao-cisco/2.1-analisando-um-ataque-cibernetico/2.3-exploits-e-vulnerabilidade-de-seguranca.md)
 * [Segurança e Privacidade](seguranca-e-privacidade/README.md)
   * [Governança e privacidade dos dados](seguranca-e-privacidade/governanca-e-privacidade-dos-dados.md)
-* [Authorization](authorization/README.md)
-  * [Decompor mecanismos de autorização](authorization/decompor-mecanismos-de-autorizacao.md)
+* [Autenticação e Autorização](autenticacao-e-autorizacao/README.md)
+  * [Decompor mecanismos de autorização](autenticacao-e-autorizacao/decompor-mecanismos-de-autorizacao.md)
