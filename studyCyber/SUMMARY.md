@@ -38,5 +38,5 @@
 * [Autenticação e Autorização](autenticacao-e-autorizacao/README.md)
   * [Decompor mecanismos de autorização](autenticacao-e-autorizacao/decompor-mecanismos-de-autorizacao.md)
 * [SAP Security and Authorization](sap-security-and-authorization/README.md)
-  * [Conceitos de segurança SAP](sap-security-and-authorization/conceitos-de-seguranca-sap.md)
+  * [Conceitos de Segurança SAP](sap-security-and-authorization/conceitos-de-seguranca-sap.md)
   * [Conceitos de Autorização SAP](sap-security-and-authorization/conceitos-de-autorizacao-sap.md)
