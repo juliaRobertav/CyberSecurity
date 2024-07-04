@@ -37,3 +37,4 @@
   * [Governança e privacidade dos dados](seguranca-e-privacidade/governanca-e-privacidade-dos-dados.md)
 * [Autenticação e Autorização](autenticacao-e-autorizacao/README.md)
   * [Decompor mecanismos de autorização](autenticacao-e-autorizacao/decompor-mecanismos-de-autorizacao.md)
+* [SAP Security and Authorization](sap-security-and-authorization.md)
