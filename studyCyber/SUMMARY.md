@@ -39,6 +39,3 @@
   * [Roles & Grupos](autorizacao/roles-and-grupos.md)
   * [Modelos de Controle de Acesso](autorizacao/modelos-de-controle-de-acesso.md)
   * [Decompor mecanismos de autorização](autorizacao/decompor-mecanismos-de-autorizacao.md)
-* [SAP Security and Authorization](sap-security-and-authorization/README.md)
-  * [Conceitos de Segurança SAP](sap-security-and-authorization/conceitos-de-seguranca-sap.md)
-  * [Conceitos de Autorização SAP](sap-security-and-authorization/conceitos-de-autorizacao-sap.md)
