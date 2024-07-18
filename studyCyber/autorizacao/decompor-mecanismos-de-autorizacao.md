@@ -22,3 +22,8 @@ Por exemplo, quem trabalha com contas a pagar dentro da empresa, poderia ver os 
 
 ### Subject, Object & Activity
 
+**Subject:** A pessoa ou entidade que concede a autorização.
+
+**Object:** A pessoa, entidade ou atividade que recebe a permissão para ser realizada.
+
+**Activity:** A ação, operação ou procedimento que requer permissão ou consentimento para ser realizada.

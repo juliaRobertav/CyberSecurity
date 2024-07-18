@@ -10,9 +10,9 @@ description: Processos de autenticação e autorização do usuário
 
 <mark style="background-color:blue;">**Diferença:**</mark>
 
-<mark style="color:blue;">Autenticação:</mark>  verifica e confirma a identidade do usuário <mark style="color:blue;">(quem é)</mark>
+**Autenticação:**  verifica e confirma a identidade do usuário <mark style="color:blue;">(quem é)</mark>
 
-<mark style="color:blue;">Autorização:</mark> verifica e confirma as permissões do usuário <mark style="color:blue;">(o que pode fazer)</mark>
+**Autorização:** verifica e confirma as permissões do usuário <mark style="color:blue;">(o que pode fazer)</mark>
 
 
 
