@@ -1,6 +1,6 @@
-# 2.1 Analisando um ataque cibernético
+# 2. Ataques, Conceitos e Técnicas
 
-
+## 2.1 Analisando um ataque cibernético
 
 ### 2.1.1 Tipos  de Malware&#x20;
 
@@ -80,8 +80,3 @@ Independente do tipo de malware com o qual um sistema foi iniciado, existem algu
 * programas estão se desligando ou reconfigurando sozinhos
 * e-mails estão sendo enviados sem o conhecimento ou consentimento do usuário
 
-
-
-### 2.1.3 O que você acha?
-
-Exercício...
