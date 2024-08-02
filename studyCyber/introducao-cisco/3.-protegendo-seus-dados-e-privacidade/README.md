@@ -60,4 +60,69 @@ Os hackers estarão cientes do SSID predefinido e da senha padrão. Portanto, es
 
 
 
-Esta vulnerabilidade pode ser explorada por ataques de reinstalação de chave  (KRACKs) por invasores.&#x20;
+Esta vulnerabilidade pode ser explorada por ataques de reinstalação de chave  (KRACKs) por invasores. Em termos simples, os invasores interrompem a criptografia entre um roteador wireless e um dispositivo sem fio, dando -lhes acesso aos dados da rede. Ela afeta todas as redes Wifi modernas e protegidas.
+
+Para mitigar essa situação, você deve:
+
+* atualizar todos os dispositivos sem feio, como roteadores, laptops e dispositivos móveis, assim que as atualizações de segurança estiverem disponíveis
+* usar uma conexão com fio para todos os dispositivos co uma placa de interface de rede com fio (NIC)
+* use um serviço confiável de rede virtual privada (VPN) ao acessar uma rede sem fio.
+
+Clique [aqui ](https://www.krackattacks.com/)para saber mais sobre KRACK.
+
+
+
+### 3.1.4 Riscos públicos de Wi-Fi
+
+Quando você está longe de casa, pode acessar suas informações online e navegar na Internet por meio de redes sem fio públicas ou pontos de acesso wi-fi. No entanto, há alguns riscos envolvidos, o que significa que é melhor não acessar ou enviar nenhuma informação pessoal ao usar o Wi-Fi público.
+
+Você deve sempre verificar se seu dispositivo não está configurado com compartilhamento de arquivos e mídia e se requer autenticação do usuário com criptografia.
+
+Você também deve usar um serviço de VPN criptografado para impedir que outras pessoas interceptem suas informações (conhecidas como "eavesdropping" ou "escutas") em uma rede pública sem fio. Esse serviço oferece acesso seguro à Internet, criptografando a conexão entre o dispositivo e o servidor VPN. Mesmo que os hackers interceptem uma transmissão de dados em um túnel VPN criptografado, eles não serão capazes de decifrá-la.
+
+Clique [aqui](https://www.fcc.gov/consumers/guides/protecting-your-wireless-network) para saber mais sobre como se proteger ao utilizar redes sem fio.
+
+Não se esqueça que o protocolo sem fio Bluetooth, encontrado em muitos smartphones e tablets, também pode ser explorado por hackers para espionar, estabelecer controles de acesso remoto, distribuir malware e consumir baterias!
+
+Portanto, minha principal dica é manter o Bluetooth desligado quando você não estiver usando.
+
+
+
+### 3.1.5 Seguranã de senha
+
+Exercício...
+
+
+
+### 3.1.6 Uma senha Forte
+
+Aqui estão algumas dicas simples para ajudá-lo na escolha de uma senha forte.
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="529"><figcaption></figcaption></figure>
+
+
+
+### 3.1.7 Usando uma frase secreta
+
+Para evitar o acesso não autorizado aos dispositivos, considere usar frase secreta em vez de senhas. Uma frase secreta geralmente tem a forma de uma frase ("Acat th @ tlov3sd0gs."), tornando mais fácil para você se lembrar. E como é mais do que uma senha típica, é menos vulnerável a ataques de força bruta ou de dicionário.
+
+**Aqui estão algumas dicas para criar uma boa senha.**
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### 3.1.8 Diretrizes de Senha
+
+O Instituto Nacional de Padrões e Tecnologia (NIST) dos Estados Unidos publicou requisitos de senha aprimorados. Os padrões do NIST destinam-se a aplicações governamentais, mas também podem servir de padrão para outros setores.
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+Clique [aqui](https://pages.nist.gov/800-63-3/) para obter mais informações sobre esses requisitos de senha do NIST.
+
+
+
+### 3.1.9 Verificação de senha
+
+Exercício...
+
