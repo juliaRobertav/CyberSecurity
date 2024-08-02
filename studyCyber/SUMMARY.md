@@ -36,6 +36,7 @@
     * [2.4 O Cenário da Cibersegurança](introducao-cisco/2.-ataques-conceitos-e-tecnicas/2.4-o-cenario-da-ciberseguranca.md)
   * [3. Protegendo seus dados e privacidade](introducao-cisco/3.-protegendo-seus-dados-e-privacidade/README.md)
     * [3.2 Manutenção de Dados](introducao-cisco/3.-protegendo-seus-dados-e-privacidade/3.2-manutencao-de-dados.md)
+    * [3.3 Quem é o dono dos seus dados?](introducao-cisco/3.-protegendo-seus-dados-e-privacidade/3.3-quem-e-o-dono-dos-seus-dados.md)
 * [Segurança e Privacidade](seguranca-e-privacidade/README.md)
   * [Governança e privacidade dos dados](seguranca-e-privacidade/governanca-e-privacidade-dos-dados.md)
 * [Autorização](autorizacao/README.md)
