@@ -8,6 +8,8 @@ description: Estudos sobre essa área!
 
 
 
+{% embed url="https://github.com/paulveillard/cybersecurity/tree/main" %}
+
 {% embed url="https://roadmap.sh/cyber-security" %}
 
 {% embed url="https://csrc.nist.gov/glossary/term/security_authorization" %}
