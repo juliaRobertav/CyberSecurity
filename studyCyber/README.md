@@ -8,6 +8,8 @@ description: Estudos sobre essa área!
 
 
 
+{% embed url="https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf" %}
+
 {% embed url="https://github.com/paulveillard/cybersecurity/tree/main" %}
 
 {% embed url="https://roadmap.sh/cyber-security" %}
@@ -17,6 +19,8 @@ description: Estudos sobre essa área!
 {% embed url="https://www.cert.br/" %}
 
 {% embed url="https://www.cert.br/docs/" %}
+
+{% embed url="https://www.linkedin.com/pulse/verdade-nua-e-crua-roadmap-para-se-tornar-um-em-victor-fernandes/" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/" %}
 
