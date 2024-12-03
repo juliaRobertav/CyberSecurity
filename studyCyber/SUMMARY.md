@@ -43,3 +43,4 @@
   * [Roles & Grupos](autorizacao/roles-and-grupos.md)
   * [Modelos de Controle de Acesso](autorizacao/modelos-de-controle-de-acesso.md)
   * [Decompor mecanismos de autorização](autorizacao/decompor-mecanismos-de-autorizacao.md)
+* [SC-900 Microsoft](sc-900-microsoft.md)
