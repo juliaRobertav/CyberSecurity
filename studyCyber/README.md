@@ -8,6 +8,8 @@ description: Estudos sobre essa área!
 
 
 
+{% embed url="https://xiotz.com/best-10-institutions-of-cyber-security-in-india/" %}
+
 {% embed url="https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf" %}
 
 {% embed url="https://github.com/paulveillard/cybersecurity/tree/main" %}
@@ -80,7 +82,7 @@ description: Estudos sobre essa área!
 
 ### Livros:
 
-[Livro](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeGebi62aLkV5LwYyzI1e%2Fuploads%2Fx1bsQiKUM8cUEXCg5j1W%2FWireless\_Hacking\_livro\_MFAA.pdf?alt=media\&token=e84442d2-e1fd-4558-baee-8c12747c5736)
+[Livro](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeGebi62aLkV5LwYyzI1e%2Fuploads%2Fx1bsQiKUM8cUEXCg5j1W%2FWireless_Hacking_livro_MFAA.pdf?alt=media\&token=e84442d2-e1fd-4558-baee-8c12747c5736)
 
 {% embed url="https://www.academia.edu/39301844/Testes_de_Invas%C3%A3o_Uma_introdu%C3%A7%C3%A3o_pr%C3%A1tica_ao_hacking" %}
 

@@ -6,20 +6,17 @@ description: Dicas de estudos, livros, cursos e ferramentas de cybersecurity
 
 {% embed url="https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao" %}
 
-### Cursos e Recursos
+{% embed url="https://www.coursera.org/learn/crypto/home/module/1" %}
 
-1. Coursera: oferece diversos cursos online sobre cybersecurity, como "Cybersecurity Specialization" e "Introduction to Cyber Security Specialization"
-2. Udemy: possui uma variedade de cursos sobre cybersecurity, como "The Complete Cyber Security Course" e "Cyber Security for Beginners"
-3. Cybrary: plataforma de aprendizado online focada em cybersecurity, com cursos gratuitos e pagos
-4. Pluralsight: oferece cursos de treinamento em cybersecurity, incluindo "Ethical Hacking" e "Cybersecurity Fundamentals"
-5. SANS Institute: oferece treinamentos e certificações em cybersecurity, incluindo cursos presenciais e online
-6. Hack The Box: plataforma de treinamento em cybersecurity, com desafios e laboratórios práticos para aprender habilidades de hacking ético
-7. OWASP: oferece recursos gratuitos, como guias e ferramentas, para aprender sobre segurança de aplicativos web
-8. SecurityTube: plataforma de aprendizado online com vídeos e tutoriais sobre hacking e segurança de redes
-9. Cybrary **(Cybrary.it)**: oferece cursos gratuitos sobre segurança cibernética, incluindo "Ethical Hacking" e "CompTIA Security+"
-10. Offensive Security: oferece treinamentos e certificações em hacking ético, como o curso "Penetration Testing with Kali Linux"
+{% embed url="https://tryhackme.com/r/hacktivities" %}
 
+{% embed url="https://authn.edx.org/register?course_id=course-v1%3AEC-Council%2BEHE-112-52%2B3T2022&enrollment_action=enroll&email_opt_in=false" %}
 
+{% embed url="https://star.ibsec.com.br/metodos-de-protecao-de-dados/" %}
+
+{% embed url="https://sp.senai.br/inscricaogratuita/por-dentro-da-seguranca-cibernetica/102411/509/29837/6" %}
+
+{% embed url="https://www.slideshare.net/slideshow/sapoverviewppt/259071757" %}
 
 ### Livros
 
@@ -33,18 +30,6 @@ description: Dicas de estudos, livros, cursos e ferramentas de cybersecurity
 8. "The Tangled Web: A Guide to Securing Modern Web Applications" por Michal Zalewski
 9. "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software" por Michael Sikorski e Andrew Honig
 10. "The Hacker Playbook 3: Practical Guide to Penetration Testing" por Peter Kim
-
-
-
-### Para Iniciantes
-
-1. Fundamentos de redes: Compreender os princípios básicos de redes, como protocolos, endereçamento IP, roteamento e segurança de redes.
-2. Sistemas operacionais: Ter conhecimento sobre sistemas operacionais, especialmente Windows e Linux, incluindo comandos básicos, gerenciamento de arquivos e permissões.
-3. Criptografia: Entender os princípios de criptografia, incluindo algoritmos, chaves públicas/privadas, assinaturas digitais e SSL/TLS.
-4. Segurança de aplicativos web: Aprender sobre vulnerabilidades comuns em aplicações web, como injeção de SQL, cross-site scripting (XSS) e ataques de falsificação de solicitação entre sites (CSRF).
-5. Segurança de sistemas: Conhecer os princípios de segurança de sistemas, incluindo autenticação, autorização, controle de acesso e princípios de least privilege.
-6. Ética e leis: Compreender as questões éticas e legais relacionadas à segurança cibernética, incluindo privacidade, conformidade e leis de cibercrime.
-7. Ferramentas de segurança: Familiarizar-se com ferramentas comuns de segurança, como scanners de vulnerabilidades, firewalls, sistemas de detecção de intrusões (IDS) e sistemas de prevenção de intrusões (IPS).
 
 
 
