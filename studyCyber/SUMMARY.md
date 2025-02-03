@@ -2,10 +2,7 @@
 
 * [Dicas](README.md)
   * [Cursos](cybersecurity/dicas.md)
-* [Base](areas/README.md)
-  * [Redes](areas/redes/README.md)
-    * [O que são redes?](areas/redes/o-que-sao-redes.md)
-* [Certificações](certificacoes.md)
+  * [Certificações](readme/certificacoes.md)
 * [Segurança da Informação](seguranca-da-informacao/README.md)
   * [Visão Geral](seguranca-da-informacao/visao-geral.md)
 * [CiberSegurança](ciberseguranca/README.md)
