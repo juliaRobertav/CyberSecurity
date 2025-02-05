@@ -57,15 +57,3 @@ Ou seja, proteger de quem não está autorizado, entrando no contexto da <mark s
 
 
 
-### Ameaça x Ataque
-
-* <mark style="color:orange;">**Ameaça**</mark>
-
-Qualquer coisa que possa afetar ou atingir o funcionamento, operação, disponibilidade, integridade da rede ou sistema.
-
-Não quer dizer que vai acontecer um ataque de fato, mas sim um <mark style="background-color:orange;">**potencial**</mark>, que pode prejudicar a segurança.
-
-* <mark style="color:orange;">**Ataque**</mark>
-
-Minuto 7:12 do vídeo.
-
