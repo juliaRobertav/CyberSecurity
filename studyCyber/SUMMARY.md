@@ -41,4 +41,5 @@
   * [Modelos de Controle de Acesso](autorizacao/modelos-de-controle-de-acesso.md)
   * [Decompor mecanismos de autorização](autorizacao/decompor-mecanismos-de-autorizacao.md)
 * [SC-900 Microsoft](sc-900-microsoft.md)
+* [SIEM](siem.md)
 * [Page 1](page-1.md)
