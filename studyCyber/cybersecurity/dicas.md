@@ -6,6 +6,8 @@ description: Dicas de estudos, livros, cursos e ferramentas de cybersecurity
 
 {% embed url="https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao" %}
 
+{% embed url="https://www.coursera.org/professional-certificates/google-cloud-cybersecurity-certificate" %}
+
 {% embed url="https://www.coursera.org/learn/crypto/home/module/1" %}
 
 {% embed url="https://tryhackme.com/r/hacktivities" %}
