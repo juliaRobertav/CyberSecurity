@@ -18,6 +18,12 @@ description: Dicas de estudos, livros, cursos e ferramentas de cybersecurity
 
 {% embed url="https://sp.senai.br/inscricaogratuita/por-dentro-da-seguranca-cibernetica/102411/509/29837/6" %}
 
+[Introducing Cybersecurity](https://learning.sap.com/learning-journeys/introducing-the-field-of-cybersecurity)
+
+
+
+{% embed url="https://drive.google.com/drive/folders/1qySGecJXwG1WRSYCSgIC8lOPcDVPJ73L" %}
+
 ### Livros
 
 1. "The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data" por Kevin Mitnick
