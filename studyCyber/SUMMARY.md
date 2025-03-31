@@ -45,5 +45,4 @@
     * [Descrever o modelo de responsabilidade compartilhada](microsoft/sc-900-microsoft/descrever-o-modelo-de-responsabilidade-compartilhada.md)
     * [Descrever a defesa em profundidade](microsoft/sc-900-microsoft/descrever-a-defesa-em-profundidade.md)
 * [SIEM](siem.md)
-* [Page 1](page-1.md)
 * [ISO](iso.md)
